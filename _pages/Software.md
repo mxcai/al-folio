@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /Software/
-title: Software
-description: I have developed and maintained softwares on my GitHub page: <https://github.com/mxcai>
-nav: true
+permalink:  /Software/
+title:  Software
+description:  I have developed and maintained softwares on my GitHub page: <https://github.com/mxcai>
+nav:  true
 ---
 
 
