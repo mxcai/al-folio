@@ -2,10 +2,10 @@
 layout: page
 permalink:  /Software/
 title:  Software
-description:  I have developed and maintained softwares on my [GitHub page](https://github.com/mxcai).
+description: 
 nav:  true
 ---
-
+I have developed and maintained softwares on my [GitHub page](https://github.com/mxcai).
 
 - [VCM](https://github.com/mxcai/VCM): 	An efficiently implemented R package for variance components estimation. The software provides 3 algorithms for fitting the variance components model, including the Expectation-Maximization algorithm, the Minorization-Maximization algorithm, and the Method of Moments.
 - [XPASS](https://github.com/mxcai/XPASS): 	An R package for constructing genetic prediction of polygenic traits by leveraging cross-population datasets from GWAS summary data.
