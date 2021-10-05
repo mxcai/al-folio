@@ -6,7 +6,7 @@ description: The Hong Kong University of Science and Technology
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p>Room 4381</p>
     <p>The Hong Kong University of Science and Technology</p>
