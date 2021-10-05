@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at The Hong Kong University of Science and Technology. My research interest centers around statistical machine learning for data science. I have been working on scalable statistical methods for high dimensional regression problems and integrative analysis of genomics data.
+I am a PhD candidate at The Hong Kong University of Science and Technology. My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of omics data, and integrative analysis and construction of polygenic risk scores with trans-ancestry genetics data. In the spirite of reproducible research, I have developed and maintained relevant softwares in my github page.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
