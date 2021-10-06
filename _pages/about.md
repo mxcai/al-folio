@@ -17,7 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at The Hong Kong University of Science and Technology. My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of omics data, and association mapping and construction of polygenic risk scores with trans-ancestry genetics data. In the spirite of reproducible research, I have developed and maintained relevant softwares in [my github page](https://github.com/mxcai).
+I am a PhD candidate at The Hong Kong University of Science and Technology. My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction. 
+I have developed and maintained relevant softwares in [my github page](https://github.com/mxcai).
 
 [GooGle Scholar](https://scholar.google.com/citations?user=8RH6-hkAAAAJ&hl=zh-CN)
 
