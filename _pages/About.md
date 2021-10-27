@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 description: The Hong Kong University of Science and Technology
 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at The Hong Kong University of Science and Technology. My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction. 
+I am a PhD candidate at The Hong Kong University of Science and Technology supervised by [Prof. Can Yang](https://sites.google.com/site/eeyangc/). My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction. 
 
 [My GitHub page](https://github.com/mxcai).
 
