@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpeg
   address: >
-    <p>Room 4381</p>
-    <p>The Hong Kong University of Science and Technology</p>
-    <p>Hong Kong</p>
+    <p>Email: mcaiadATust.hk</p>
+    <p>Address: 4381, The Hong Kong University of Science and Technology, Hong Kong</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
