@@ -6,7 +6,7 @@ description: The Hong Kong University of Science and Technology
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.JPG
   address: >
     <p>Email: mcaiadATust.hk</p>
     <p>Address: 4381, The Hong Kong University of Science and Technology, Hong Kong</p>
