@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: statmcai # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Mingxuan 
 middle_name: 
 last_name: Cai
