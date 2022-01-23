@@ -37,8 +37,8 @@ I am a PhD candidate at [The Hong Kong University of Science and Technology](htt
 
 ## Honors
 
-- Postgraduate Research Excellence Award, School of Science, HKUST, 2020. This award is present to research postgraduate students with outstanding research achievements.
-- Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST, 2021. This award is in appreciation of excellent teaching performance for teaching assistant.
+- Postgraduate Research Excellence Award, School of Science, HKUST, 2020.
+- Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST, 2021.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
