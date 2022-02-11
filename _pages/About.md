@@ -22,9 +22,8 @@ I am a PhD candidate at [The Hong Kong University of Science and Technology](htt
 
 [My GooGle Scholar citation](https://scholar.google.com/citations?user=8RH6-hkAAAAJ&hl=zh-CN)
 
-[My CV](https://github.com/mxcai/mxcai.github.io/blob/master/assets/pdf/CV-Cai%20Mingxuan.pdf?raw=true)
 
-### Education
+## Education
 
 - PhD The Hong Kong University of Science and Technology, Statistics (2021)
 - MPhil Hong Kong Baptist University, Statistics (2018)
