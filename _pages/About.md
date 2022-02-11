@@ -5,7 +5,7 @@ permalink: /
 description: The Hong Kong University of Science and Technology
 
 profile:
-  align: left
+  align: right
   image: prof_pic.JPG
   address: >
     <p>Email: mcaiadATust.hk</p>
