@@ -5,7 +5,7 @@ permalink: /
 description: The Hong Kong University of Science and Technology
 
 profile:
-  align: right
+  align: left
   image: prof_pic.JPG
   address: >
     <p>Email: mcaiadATust.hk</p>
@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) supervised by [Prof. Can Yang](https://sites.google.com/site/eeyangc/). My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction.
