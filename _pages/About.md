@@ -23,11 +23,11 @@ I obtained my PhD degree at [The Hong Kong University of Science and Technology]
 [My GooGle Scholar citation](https://scholar.google.com/citations?user=8RH6-hkAAAAJ&hl=zh-CN)
 
 
-## Education
+<!-- ## Education
 
 - PhD The Hong Kong University of Science and Technology, Statistics (2021)
 - MPhil Hong Kong Baptist University, Statistics (2018)
-- Bsc Hong Kong Baptist University, Statistics (2016)
+- Bsc Hong Kong Baptist University, Statistics (2016) -->
 
 
 
