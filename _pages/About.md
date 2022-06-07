@@ -29,15 +29,7 @@ I am a PhD candidate at [The Hong Kong University of Science and Technology](htt
 - MPhil Hong Kong Baptist University, Statistics (2018)
 - Bsc Hong Kong Baptist University, Statistics (2016)
 
-## Talks
 
-- “BIVAS: A scalable Bayesian method for bi-level variable selection”, Joint Meeting of 10th Asian Regional Section (ARS) of the International Association for Statistical Computing (IASC) and the NZ Statistical Association (NZSA). Dec 2017
-
-
-## Honors
-
-- Postgraduate Research Excellence Award, School of Science, HKUST, 2020.
-- Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST, 2021.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
