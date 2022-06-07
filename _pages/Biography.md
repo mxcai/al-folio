@@ -6,11 +6,11 @@ description:
 nav: true
 ---
 
-# Employment
+## Employment
 - Assistant Professor at Department of Biostatistics, The City University of Hong Kong, 2022.8-present
 
 ## Education
-- PhD The Hong Kong University of Science and Technology, Statistics (2021)
+- PhD The Hong Kong University of Science and Technology, Statistics (2022)
 - MPhil Hong Kong Baptist University, Statistics (2018)
 - Bsc Hong Kong Baptist University, Statistics (2016)
 
