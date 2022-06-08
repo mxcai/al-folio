@@ -5,6 +5,7 @@ title: Publications
 description: 
 years: [2022, 2021, 2020, 2018, 2017]
 nav: true
+nav_order: 3
 ---
 [GooGle Scholar](https://scholar.google.com/citations?user=8RH6-hkAAAAJ&hl=zh-CN)
 

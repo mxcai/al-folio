@@ -4,6 +4,7 @@ permalink:  /Software/
 title:  Software
 description: 
 nav:  true
+nav_order: 4
 ---
 I have developed and maintained softwares on my [GitHub page](https://github.com/mxcai).
 
