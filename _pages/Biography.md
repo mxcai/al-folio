@@ -4,7 +4,6 @@ permalink: /Biography/
 title: Biography
 description: 
 nav: true
-nav_order: 1
 ---
 
 ## Employment
