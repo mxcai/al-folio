@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my PhD degree at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) and will join the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at [City University of Hong Kong](https://www.cityu.edu.hk) as an Assistant Profession at Aug 2022. I was by [Prof. Can Yang](https://sites.google.com/site/eeyangc/) at HKUST. My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction.
+I will join the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at [City University of Hong Kong](https://www.cityu.edu.hk) as an Assistant Profession in Aug 2022. I obtained my PhD degree at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) supervised by [Prof. Can Yang](https://sites.google.com/site/eeyangc/). My broad area of interest lies in statistical machine learning and data science with applications in genetics and genomics data. I have been working on scalable statistical methods for high dimensional regression problems, integrative analysis of multi-omics data, and trans-ancestry genetics for association mapping and polygenic risk scores construction.
 
 [My GitHub page](https://github.com/mxcai)
 
