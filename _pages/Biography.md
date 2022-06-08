@@ -7,7 +7,7 @@ nav: true
 ---
 
 ## Employment
-- Assistant Professor at Department of Biostatistics, The City University of Hong Kong, 2022.8-present
+- Assistant Professor at Department of Biostatistics, City University of Hong Kong, 2022.8-present
 
 ## Education
 - PhD The Hong Kong University of Science and Technology, Statistics (2022)
