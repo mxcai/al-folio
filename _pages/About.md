@@ -20,7 +20,7 @@ I will join the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at
 
 [My GitHub page](https://github.com/mxcai)
 
-[My GooGle Scholar citation](https://scholar.google.com/citations?user=8RH6-hkAAAAJ&hl=zh-CN)
+[My GooGle Scholar citation](https://scholar.google.com/citations?user=bK5JkV4AAAAJ&hl=zh-CN)
 
 
 <!-- ## Education
