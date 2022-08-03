@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Assistant Professor \\
-Department of Biostatistics\\
-City University of Hong Kong
+description: City University of Hong Kong
 
 profile:
   align: right
