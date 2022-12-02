@@ -26,7 +26,7 @@ nav: true
 ## Talks
 - A fast and scalable statistical framework for genetic risk prediction of large-scale datasets. 2022 R conference. Nov 21, 2022.
 - Scalable statistical methods for cross-population risk prediction and integrative analysis of multi-omics data. PhD defense at HKUST. May 17, 2022.
-- A fast and accurate method for genetic risk prediction by leveraging biobank scale data. Shanghai University of Finance and Economics. Dec 12, 2020. 
+- A fast and accurate method for genetic risk prediction by leveraging biobank scale data. Shanghai University of Finance and Economics. Jan 6, 2022. 
 - BIVAS: A scalable Bayesian method for bi-level variable selection, Joint Meeting of 10th Asian Regional Section (ARS) of the International Association for Statistical Computing (IASC) and the NZ Statistical Association (NZSA) at University of Auckland. Dec 11, 2017.
 
 
