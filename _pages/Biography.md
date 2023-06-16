@@ -14,13 +14,17 @@ nav: true
 - MPhil Hong Kong Baptist University, Statistics (2018)
 - Bsc Hong Kong Baptist University, Statistics (2016)
 
+
+
 <!-- # Profession activities
 - Journal reviewer
 	- Journal of Computational and Graphical Statistics
 	- The American Journal of Human Genetics
 	- Bioinformatics
+	- PLOS Computational Biology
 	- PLOS Genetics
-	- Frontiers in Genetics -->
+	- Frontiers in Genetics 
+	- Biometrical Journal -->
 
 
 ## Talks
@@ -30,8 +34,10 @@ nav: true
 - BIVAS: A scalable Bayesian method for bi-level variable selection, Joint Meeting of 10th Asian Regional Section (ARS) of the International Association for Statistical Computing (IASC) and the NZ Statistical Association (NZSA) at University of Auckland. Dec 11, 2017.
 
 
+
 ## Honors
 
+- Hong Kong Mathematical Society Best Thesis Award, 2023.
 - Redbird Academic Excellence Award, HKUST, 2022.
 - The 17th Epsilon Fund Award, Department of Mathematics, HKUST, 2022.
 - Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST, 2021.
