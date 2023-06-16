@@ -37,7 +37,7 @@ nav: true
 
 ## Honors
 
-- Hong Kong Mathematical Society Best Thesis Award, 2023.
+- Best Thesis Award, Hong Kong Mathematical Society, 2023.
 - Redbird Academic Excellence Award, HKUST, 2022.
 - The 17th Epsilon Fund Award, Department of Mathematics, HKUST, 2022.
 - Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST, 2021.
