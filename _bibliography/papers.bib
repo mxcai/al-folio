@@ -1,6 +1,17 @@
 ---
 ---
-@article{yu2023palm,
+@article{cai2023xmap,
+  abbr = {Nat Commun},
+  abstract = {Fine-mapping prioritizes risk variants identified by genome-wide association studies (GWASs), serving as a critical step to uncover biological mechanisms underlying complex traits. However, several major challenges still remain for existing fine-mapping methods. First, the strong linkage disequilibrium among variants can limit the statistical power and resolution of fine-mapping. Second, it is computationally expensive to simultaneously search for multiple causal variants. Third, the confounding bias hidden in GWAS summary statistics can produce spurious signals. To address these challenges, we develop a statistical method for cross-population fine-mapping (XMAP) by leveraging genetic diversity and accounting for confounding bias. By using cross-population GWAS summary statistics from global biobanks and genomic consortia, we show that XMAP can achieve greater statistical power, better control of false positive rate, and substantially higher computational efficiency for identifying multiple causal signals, compared to existing methods. Importantly, we show that the output of XMAP can be integrated with single-cell datasets, which greatly improves the interpretation of putative causal variants in their cellular context at single-cell resolution.},
+  title={{XMAP}: Cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias},
+  author={Cai, Mingxuan and Wang, Zhiwei and Xiao, Jiashun and Hu, Xianghong and Chen, Gang and Yang, Can},
+  journal={Nature Communications},
+  year={Accepted in principle},
+  code={https://github.com/YangLabHKUST/xmap},
+  publisher={Springer Nature}
+}
+
+@article{wang2023mfai,
   abbr = {Preprint},
   abstract = {In various practical situations, matrix factorization methods suffer from poor data quality, such as high data sparsity and low signal-to-noise ratio (SNR). Here we consider a matrix factorization problem by utilizing auxiliary information, which is massively available in real applications, to overcome the challenges caused by poor data quality. Unlike existing methods that mainly rely on simple linear models to combine auxiliary information with the main data matrix, we propose to integrate gradient boosted trees in the probabilistic matrix factorization framework to effec- tively leverage auxiliary information (MFAI). Thus, MFAI naturally inherits several salient features of gradient boosted trees, such as the capability of flexibly modeling nonlinear relationships, and robustness to irrelevant features and missing values in auxiliary information. The parameters in MAFI can be automatically determined under the empirical Bayes framework, making it adaptive to the utilization of aux- iliary information and immune to overfitting. Moreover, MFAI is computationally efficient and scalable to large-scale datasets by exploiting variational inference. We demonstrate the advantages of MFAI through comprehensive numerical results from simulation studies and real data analysis. Our approach is implemented in the R package mfair available at https://github.com/YangLabHKUST/mfair.},
   title={{MFAI}: A scalable Bayesian matrix factorization approach to leveraging auxiliary information},
