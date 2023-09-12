@@ -28,7 +28,7 @@ nav: true
 
 
 ## Talks
-- A statistical framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 6th International Conference on Econometrics and Statistics (EcoSta 2023) at Waseda University. Aug 8, 2023.
+- A statistical framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 6th International Conference on Econometrics and Statistics (EcoSta 2023) at Waseda University. Aug 3, 2023.
 - A statistical framework for Cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 2023 ICSA International Conference at CUHK. July 7, 2023.
 - A fast and scalable statistical framework for genetic risk prediction of large-scale datasets. 2022 R conference. Nov 21, 2022.
 - Scalable statistical methods for cross-population risk prediction and integrative analysis of multi-omics data. PhD defense at HKUST. May 17, 2022.
