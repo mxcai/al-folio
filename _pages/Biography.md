@@ -28,6 +28,7 @@ nav: true
 
 
 ## Talks
+- A unified framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. Shenzhen Research Institute of Big Data. Nov 10, 2023.
 - A statistical method for Cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias. Joint Bioconductor Asia - Hong Kong Bioinformatics Symposium at The University of Hong Kong. Oct 16, 2023.
 - A statistical framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 6th International Conference on Econometrics and Statistics (EcoSta 2023) at Waseda University. Aug 3, 2023.
 - A statistical framework for Cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 2023 ICSA International Conference at CUHK. July 7, 2023.
