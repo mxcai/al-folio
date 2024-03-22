@@ -28,6 +28,8 @@ nav: true
 
 
 ## Talks
+- Leveraging genetic diversity to fine-map causal variants of complex traits. Statistical Bioinformatics Seminar at The University of Sydney. Mar 18, 2024.
+- Cross-population Fine-mapping by leveraging genetic diversity and accounting for confounding bias. East China Normal University. Jan 15, 2024.
 - A unified framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. Shenzhen Research Institute of Big Data. Nov 10, 2023.
 - A statistical method for Cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias. Joint Bioconductor Asia - Hong Kong Bioinformatics Symposium at The University of Hong Kong. Oct 16, 2023.
 - A statistical framework for fine-mapping by leveraging genetic diversity and accounting for confounding bias. The 6th International Conference on Econometrics and Statistics (EcoSta 2023) at Waseda University. Aug 3, 2023.
