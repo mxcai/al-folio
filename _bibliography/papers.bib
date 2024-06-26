@@ -1,5 +1,65 @@
 ---
 ---
+@article{li2024funmap,
+  abbr = {medRxiv},
+  abstract = {Fine-mapping aims to prioritize causal variants underlying complex traits by accounting for the linkage disequilibrium of GWAS risk locus. The expanding resources of functional annotations serve as auxiliary evidence to improve the power of fine-mapping. However, existing fine-mapping methods tend to generate many false positive results when integrating a large number of annotations. In this study, we propose a unified method to integrate high-dimensional functional annotations with fine-mapping (Funmap). Funmap can effectively improve the power of fine-mapping by borrowing information from hundreds of functional annotations. Meanwhile, it relates the annotation to the causal probability with a random effects model that avoids the over-fitting issue, thereby producing a well-controlled false positive rate. Paired with a fast algorithm, Funmap enables scalable integration of a large number of annotations to facilitate prioritizing multiple causal SNPs. Our simulations demonstrate that Funmap is the only method that produces well-calibrated FDR under the setting of high-dimensional annotations while achieving better or comparable power gains as compared to existing methods. By integrating GWASs of 4 lipid traits with 187 functional annotations, Funmap consistently identified more variants that can be replicated in an independent cohort, achieving 15.5%-26.2% improvement over the runner-up in terms of replication rate.},
+  title={Funmap: integrating high-dimensional functional annotations to improve fine-mapping},
+  author={Li Yuekai and Xiao, Jiashun and Ming, Jingsi and Zeng, Yicheng and Cai, Mingxuan},
+  journal={medRxiv},
+  html = {https://doi.org/10.1101/2024.06.25.24309459},
+  year={2024},
+  code={https://github.com/LeeHITsz/Funmap},
+  publisher={Cold Spring Harbor Laboratory},
+  volume={0},
+  number={0},
+  pages={0--11},
+}
+
+@article{yu2024unified,
+  abbr = {medRxiv},
+  abstract = {Genome-wide association studies (GWASs) have identified numerous genetic variants associated with complex traits, yet the biological interpretation remains challenging, especially for variants in non-coding regions. Expression quantitative trait loci (eQTLs) studies have linked these variations to gene expression, aiding in identifying genes involved in disease mechanisms. Traditional eQTL analyses using bulk RNA sequencing (bulk RNA-seq) provide tissue-level insights but suffer from signal loss and distortion due to unaddressed cellular heterogeneity. Recently, single-cell RNA sequencing (scRNA-seq) has provided higher resolution enabling cell-type-specific eQTL (ct-eQTL) analyses. However, these studies are limited by their smaller sample sizes and technical constraints. In this paper, we present a novel statistical framework, IBSEP, which integrates bulk RNA-seq and scRNA-seq data for enhanced ct-eQTLs prioritization. Our method employs a Bayesian hierarchical model to combine summary statistics from both data types, overcoming the limitations while leveraging the advantages associated with each technique. Through extensive simulations and real-data analyses, including peripheral blood mononuclear cells and brain cortex datasets, IBSEP demonstrated superior performance in identifying ct-eQTLs compared to existing methods. Our approach unveils new transcriptional regulatory mechanisms specific to cell types, offering deeper insights into the genetic basis of complex diseases at a cellular resolution.},
+  title={A unified framework for cell-type-specific eQTLs prioritization by integrating bulk and scRNA-seq data},
+  author={Yu Xinyi and Hu, Xianghong and Wan, Xiaomeng and Zhang, Zhiyong and Wan, Xiang and Cai, Mingxuan and Yu, Tianwei and Xiao, Jiashun},
+  journal={medRxiv},
+  html = {https://doi.org/10.1101/2024.05.27.24307972},
+  year={2024},
+  code={https://github.com/xinyiyu/IBSEP},
+  publisher={Cold Spring Harbor Laboratory},
+  volume={0},
+  number={0},
+  pages={0--11},
+}
+
+@article{hu2024benchmarking,
+  abbr = {AJHG},
+  abstract = {Mendelian Randomization (MR), which utilizes genetic variants as instrumental variables (IVs), has gained popularity as a method for causal inference between phenotypes using genetic data. While efforts have been made to relax IV assumptions and develop new methods for causal inference in the presence of invalid IVs due to confounding, the reliability of MR methods in real-world applications remains uncertain. To bridge this gap, we conducted a benchmark study evaluating 15 MR methods using real-world genetic datasets. Our study focused on three crucial aspects: type I error control in the presence of various confounding scenarios (e.g., population stratification, pleiotropy, and assortative mating), the accuracy of causal effect estimates, replicability and power. By comprehensively evaluating the performance of compared methods over one thousand pairs of exposure-outcome traits, our study not only provides valuable insights into the performance and limitations of the compared methods but also offers practical guidance for researchers to choose appropriate MR methods for causal inference.},
+  title={Benchmarking Mendelian Randomization methods for causal inference using genome-wide association study summary statistics},
+  author={Hu, Xianghong and Cai,Mingxuan and Xiao, Jiashun and Wan, Xiaomeng and Wang, Zhiwei and Zhao, Hongyu and Yang, Can},
+  journal={The American Journal of Human Genetics},
+  html = {https://doi.org/10.1101/2024.01.03.24300765},
+  year={2024},
+  code={https://github.com/YangLabHKUST/MRbenchmarking},
+  publisher={Elsevier},
+  volume={0},
+  number={0},
+  pages={0--11},
+}
+
+@article{wang2024mfai,
+  abbr = {JCGS},
+  abstract = {In various practical situations, matrix factorization methods suffer from poor data quality, such as high data sparsity and low signal-to-noise ratio (SNR). Here we consider a matrix factorization problem by utilizing auxiliary information, which is massively available in real applications, to overcome the challenges caused by poor data quality. Unlike existing methods that mainly rely on simple linear models to combine auxiliary information with the main data matrix, we propose to integrate gradient boosted trees in the probabilistic matrix factorization framework to effec- tively leverage auxiliary information (MFAI). Thus, MFAI naturally inherits several salient features of gradient boosted trees, such as the capability of flexibly modeling nonlinear relationships, and robustness to irrelevant features and missing values in auxiliary information. The parameters in MAFI can be automatically determined under the empirical Bayes framework, making it adaptive to the utilization of aux- iliary information and immune to overfitting. Moreover, MFAI is computationally efficient and scalable to large-scale datasets by exploiting variational inference. We demonstrate the advantages of MFAI through comprehensive numerical results from simulation studies and real data analysis. Our approach is implemented in the R package mfair available at https://github.com/YangLabHKUST/mfair.},
+  title={{MFAI}: A scalable Bayesian matrix factorization approach to leveraging auxiliary information},
+  author={Wang, Zhiwei and Zhang, Fa and Zheng, Cong and Hu, Xianghong and Cai, Mingxuan and Yang, Can},
+  journal={Journal of Computational and Graphical Statistics},
+  html = {https://doi.org/10.1080/10618600.2024.2319160},
+  year={2024},
+  code={https://github.com/YangLabHKUST/mfair},
+  publisher={Taylor \& Francis},
+  volume={0},
+  number={0},
+  pages={0--11},
+}
+
 @article{cai2023xmap,
   abbr = {Nat Commun},
   abstract = {Fine-mapping prioritizes risk variants identified by genome-wide association studies (GWASs), serving as a critical step to uncover biological mechanisms underlying complex traits. However, several major challenges still remain for existing fine-mapping methods. First, the strong linkage disequilibrium among variants can limit the statistical power and resolution of fine-mapping. Second, it is computationally expensive to simultaneously search for multiple causal variants. Third, the confounding bias hidden in GWAS summary statistics can produce spurious signals. To address these challenges, we develop a statistical method for cross-population fine-mapping (XMAP) by leveraging genetic diversity and accounting for confounding bias. By using cross-population GWAS summary statistics from global biobanks and genomic consortia, we show that XMAP can achieve greater statistical power, better control of false positive rate, and substantially higher computational efficiency for identifying multiple causal signals, compared to existing methods. Importantly, we show that the output of XMAP can be integrated with single-cell datasets, which greatly improves the interpretation of putative causal variants in their cellular context at single-cell resolution.},
@@ -33,20 +93,6 @@
   publisher={Springer Nature}
 }
 
-@article{wang2023mfai,
-  abbr = {JCGS},
-  abstract = {In various practical situations, matrix factorization methods suffer from poor data quality, such as high data sparsity and low signal-to-noise ratio (SNR). Here we consider a matrix factorization problem by utilizing auxiliary information, which is massively available in real applications, to overcome the challenges caused by poor data quality. Unlike existing methods that mainly rely on simple linear models to combine auxiliary information with the main data matrix, we propose to integrate gradient boosted trees in the probabilistic matrix factorization framework to effec- tively leverage auxiliary information (MFAI). Thus, MFAI naturally inherits several salient features of gradient boosted trees, such as the capability of flexibly modeling nonlinear relationships, and robustness to irrelevant features and missing values in auxiliary information. The parameters in MAFI can be automatically determined under the empirical Bayes framework, making it adaptive to the utilization of aux- iliary information and immune to overfitting. Moreover, MFAI is computationally efficient and scalable to large-scale datasets by exploiting variational inference. We demonstrate the advantages of MFAI through comprehensive numerical results from simulation studies and real data analysis. Our approach is implemented in the R package mfair available at https://github.com/YangLabHKUST/mfair.},
-  title={{MFAI}: A scalable Bayesian matrix factorization approach to leveraging auxiliary information},
-  author={Wang, Zhiwei and Zhang, Fa and Zheng, Cong and Hu, Xianghong and Cai, Mingxuan and Yang, Can},
-  journal={Journal of Computational and Graphical Statistics},
-  html = {https://doi.org/10.1080/10618600.2024.2319160},
-  year={2024},
-  code={https://github.com/YangLabHKUST/mfair},
-  publisher={Taylor \& Francis},
-  volume={0},
-  number={0},
-  pages={0--11},
-}
 
 @article{yu2023palm,
   abbr = {Bioinformatics},
